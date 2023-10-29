@@ -1,0 +1,43 @@
+(bản nháp)
+-leader:Tuấn Việt
+-Secretary:Quỳnh Giao
+-Slide Designer: Trọng Đoàn
+-Ui Designer:Quỳnh Giao, Tuấn Việt, Trọng Đoàn
+-Business Logic:Quỳnh Giao, Tuấn Việt, Trọng Đoàn
+ ngày chạy dự án        : 3h52' 28/10/2023
+ ngày dự kiến hoàn thành: 0h00' 14/11/2023 (17 ngày)
+
+
+         --ỨNG DỤNG QUẢN LÍ NHÀ SÁCH--
+I.GIỚI THIỆU ĐỒ ÁN
+ -Định Nghĩa vấn đề:
+ -Phạm vi của đồ án:
+ -mục tiêu, sự cần thiết của đề tài, tại sao lại chọn đề tài này:
+
+II.PHÂN TÍCH & THIẾT KẾ BẢN THẢO
+-phân tích yêu cầu "app quản lí nhà sách"
+  +đối tượng phục vụ: giám đốc, nhân viên
+  +đối tượng quản lí: thiết bị, phiến nhập,hóa đơn           
+  +yêu cầu đối với hệ thống:
+              .đăng nhập và đăng xuất
+              .quản lí thiết bị
+              .phân loại và sắp xếp  thiết bị
+              .lập hóa đơn bán hàng 
+              .lập phiến nhập
+              .tra cứu, tìm kiếm
+    (nên nói rõ yêu cầu ra) 
+
+III.THIẾT KẾ 
+ 1.chuẩn bị 
+  -sql server 2012
+  -visual studio 2013
+  -power design 16
+ 2.nền tảng kiến thức
+  -C#
+  -winform
+  -sqlserver
+  -database design
+ 3.hiện thực bản thiết kế 
+  -ui 
+  -logic 
+
